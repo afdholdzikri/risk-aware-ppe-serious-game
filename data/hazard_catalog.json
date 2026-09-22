@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "items": [
+    {"id": "falling_objects", "label": "Falling objects"},
+    {"id": "foot_impact", "label": "Foot impact"},
+    {"id": "moving_equipment", "label": "Moving equipment"},
+    {"id": "flying_particles", "label": "Flying particles"},
+    {"id": "sparks_hot_particles", "label": "Sparks or hot particles"},
+    {"id": "sharp_object_contact", "label": "Sharp object contact"},
+    {"id": "chemical_splash", "label": "Chemical splash"},
+    {"id": "chemical_skin_contact", "label": "Chemical skin contact"},
+    {"id": "elevated_noise", "label": "Elevated noise"},
+    {"id": "electrical_contact", "label": "Electrical contact"},
+    {"id": "electrical_fault_spark", "label": "Electrical fault spark"},
+    {"id": "airborne_particles", "label": "Airborne particles"}
+  ]
+}

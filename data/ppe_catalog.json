@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "items": [
+    {"id": "safety_helmet", "label": "Safety helmet", "detail": "Overhead impact protection", "scored": true},
+    {"id": "safety_footwear", "label": "Safety footwear", "detail": "Foot impact protection", "scored": true},
+    {"id": "high_visibility_vest", "label": "High-visibility vest", "detail": "Visibility near moving equipment", "scored": true},
+    {"id": "eye_protection", "label": "Eye protection", "detail": "Impact-rated eye protection", "scored": true},
+    {"id": "face_shield", "label": "Face shield", "detail": "Face coverage for particles and sparks", "scored": true},
+    {"id": "protective_gloves", "label": "Protective gloves", "detail": "Hand protection from sharp contact", "scored": true},
+    {"id": "chemical_goggles", "label": "Chemical goggles", "detail": "Sealed eye protection from splashes", "scored": true},
+    {"id": "chemical_resistant_gloves", "label": "Chemical-resistant gloves", "detail": "Hand protection during chemical handling", "scored": true},
+    {"id": "hearing_protection", "label": "Hearing protection", "detail": "Noise exposure protection", "scored": true},
+    {"id": "electrical_protective_gloves", "label": "Electrical protective gloves", "detail": "Hand protection from electrical contact", "scored": true},
+    {"id": "eye_face_protection", "label": "Eye and face protection", "detail": "Eye and face coverage for electrical work", "scored": true},
+    {"id": "chemical_resistant_apron", "label": "Chemical-resistant apron", "detail": "Contextual splash protection", "scored": false},
+    {"id": "arc_rated_flame_resistant_clothing", "label": "Arc-rated flame-resistant clothing", "detail": "Contextual arc-flash clothing", "scored": false}
+  ]
+}
